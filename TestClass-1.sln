@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestClass-1", "TestClass-1\TestClass-1.csproj", "{A5D4FAE3-67AD-41B1-BD73-31AE72BE3794}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TirangleTesting", "TirangleTesting\TirangleTesting.csproj", "{D190C1D0-204A-4D20-AFCB-0B98CB06E386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5D4FAE3-67AD-41B1-BD73-31AE72BE3794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D4FAE3-67AD-41B1-BD73-31AE72BE3794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D4FAE3-67AD-41B1-BD73-31AE72BE3794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D4FAE3-67AD-41B1-BD73-31AE72BE3794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D190C1D0-204A-4D20-AFCB-0B98CB06E386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D190C1D0-204A-4D20-AFCB-0B98CB06E386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D190C1D0-204A-4D20-AFCB-0B98CB06E386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D190C1D0-204A-4D20-AFCB-0B98CB06E386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD88A6D2-B421-4542-9C81-297A7D9DA95F}
+	EndGlobalSection
+EndGlobal
